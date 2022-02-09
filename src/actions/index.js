@@ -15,13 +15,6 @@ export const resetUserRecord = () => ({
   type: "RESET_USER",
 });
 
-export const selectedMegye = (id) => {
-  return {
-    type: "ADD_ID",
-    payload: id,
-  };
-};
-
 export const resetMegye = () => ({
   type: "RESET_MEGYE",
 });

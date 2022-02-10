@@ -1,9 +1,12 @@
 ## About this City select site
 
 This is an app about cities of Hungary.
+
 Tech stack: React, Redux, Bootstrap, (Node.js backend repo: https://github.com/Kattkovacs/cities_node_react_app_backend)
+
 Pages/subpages: 
 Login page, Cities page with country select, UserProfile with user data and random user data
+
 Runs with `npm start`
 
 # Getting Started with Create React App
